@@ -1,0 +1,6 @@
+{
+  "name": "Gallery",
+  "description": "Simple and fast gallery app to upload, organize into albums and tags, and view photos with offline storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
